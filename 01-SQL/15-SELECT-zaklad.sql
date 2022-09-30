@@ -1,0 +1,1 @@
+SELECT * FROM zeme_mena; # "*" hvězdička znamená všechny sloupce, normálně se tam vypisuje seznam sloupců, které chceme vypsat

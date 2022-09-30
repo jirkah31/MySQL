@@ -1,0 +1,1 @@
+ALTER TABLE barva RENAME TO barvicka;

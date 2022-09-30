@@ -1,0 +1,1 @@
+ALTER TABLE barvicka ADD css_barva text;
